@@ -9,3 +9,4 @@ dependencies:
     - pandas=2.0.0
     - requests
     - seaborn=0.12.2
+    - notebook
